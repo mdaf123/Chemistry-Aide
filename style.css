@@ -22,7 +22,6 @@ input {
     border: 3px solid blue;
     width: 500px
     color: black;
-    margin-top: auto;
     margin-left: 500px;
 }
 button {
