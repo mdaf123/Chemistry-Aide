@@ -5,5 +5,7 @@ body {
 }
 h1 {
     text-align: center;
-    border: 3px solid green;
+    border: 10px solid green;
+    width: 200px;
+    color: red;
 }
