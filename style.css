@@ -11,8 +11,8 @@ h1 {
 }
 p {
     border: 3px solid black;
-    width: 500px
-    height: 500px
+    width: 500px;
+    height: 500px;
     color: black;
     margin: auto;
     text-align: center;
@@ -20,12 +20,12 @@ p {
 }
 input {
     border: 3px solid blue;
-    width: 500px
+    width: 500px;
     color: black;
-    margin-left: 500px;
+    margin: auto;
 }
 button {
     background-color: blue;
     color: white;
-    margin-left: 1000px;
+    margin: auto;
 }
