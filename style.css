@@ -3,7 +3,7 @@ body {
     color: black;
     background-color: white;
 }
-title {
+h1 {
     text-align: center
     border: 3px solid green
 }
