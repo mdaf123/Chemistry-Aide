@@ -17,3 +17,14 @@ p {
     text-align: center;
     height: 50%;
 }
+input {
+    border: 3px solid blue;
+    width: 50%
+    color: black;
+    margin: auto;
+}
+button {
+    background-color: blue;
+    color: white;
+    margin-right: auto;
+}
