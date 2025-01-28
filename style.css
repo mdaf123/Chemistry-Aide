@@ -22,10 +22,12 @@ input {
     border: 3px solid blue;
     width: 500px;
     color: black;
+    display: block;
     margin: auto;
 }
 button {
     background-color: blue;
     color: white;
+    display: block;
     margin: auto;
 }
