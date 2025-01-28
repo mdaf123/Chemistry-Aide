@@ -1,7 +1,8 @@
 var input;
 var text;
 
-onEvent ("send", "click", function() {
-  input = getText("userInput");
-  setText("shiggidi", input);
-});
+document.getElementByID("send").onclick = function(){
+  input = document.getElementByID("userInput").textContent
+  text = input
+  document.getElementByID("shiggidi").textContent = text
+}
