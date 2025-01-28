@@ -14,17 +14,20 @@ p {
     width: 800px;
     height: 500px;
     color: black;
-    margin-left: 550px;
+    margin-left: auto;
+    margin-right: auto;
     height: 50%;
 }
 input {
     border: 3px solid blue;
     width: 500px;
     color: black;
-    margin-left: 700px;
+    margin-left: auto;
+    margin-right: auto;
 }
 button {
     background-color: blue;
     color: white;
-    margin-left: 700px;
+    margin-left: auto;
+    margin-right: auto;
 }
